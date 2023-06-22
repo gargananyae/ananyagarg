@@ -1,6 +1,5 @@
 {
   "name": "personalwebsite",
-  "homepage": "https://c0mpli.github.io/personalwebsite/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
